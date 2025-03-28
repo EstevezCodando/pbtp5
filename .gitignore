@@ -1,0 +1,10 @@
+# Ignorar a pasta da virtual env
+pbtp5/
+
+# Ignorar caches do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar possíveis arquivos temporários
+*.swp
+*.swo
